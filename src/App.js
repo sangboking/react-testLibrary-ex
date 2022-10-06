@@ -31,6 +31,9 @@ function App() {
             onClick={() => {setDisabled(!disabled) }}
           />
         </div>
+        <div>
+          안녕하세요 cicd 테스트
+        </div>
       </div>
     </div>
   );
